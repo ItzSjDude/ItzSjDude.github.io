@@ -1,1 +1,1 @@
-# http-itz-sj-dude.github.io
+itz-sj-dude.github.io
