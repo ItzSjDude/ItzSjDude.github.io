@@ -171,10 +171,12 @@ h1,h2,h3,h4,h5
 	{
         background: url('https://imbt.ga/3vpFNiYk3S');
         background-size: cover;
-        background-repeat: no-repeat;
-        padding-top: 120px;
-        padding-bottom: 140px;
-        text-align: center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        -ms-background-size: cover;
+       min-height: 650px;
+       position: relative;
 	}
 #home h1
     {
