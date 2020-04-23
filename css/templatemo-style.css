@@ -174,9 +174,13 @@ h1,h2,h3,h4,h5
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
-        -ms-background-size: cover;
-       min-height: 650px;
-       position: relative;
+       -ms-background-size: cover;
+        position: relative;
+        background-repeat: no-repeat;
+        padding-top: 120px;
+        padding-bottom: 140px;
+        text-align: center;
+        min-height: 650px;
 	}
 #home h1
     {
